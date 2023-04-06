@@ -1,0 +1,25 @@
+{
+   "title":"[ICHIGAIN] Love's Silence",
+   "description":"",
+   "author":"ICHIGAIN",
+   "artist":"ICHIGAIN",
+   "cover":"https://i.imgur.com/QhPahw3.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/5w5f6Yx"
+         },
+         "last_updated":1624606143,
+         "title":"Love's Silence",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/9Ze1WhG"
+         },
+         "last_updated":1624606143,
+         "title":"Love is Tangled",
+         "volume":"2"
+      }
+   }
+}
