@@ -1,0 +1,25 @@
+{
+   "title":"[ICHIGAIN] Talking",
+   "description":"",
+   "author":"ICHIGAIN",
+   "artist":"ICHIGAIN",
+   "cover":"https://i.imgur.com/JiCVxPs.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/K4No2A4"
+         },
+         "last_updated":1624606143,
+         "title":"Talking",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ZOV3pdY"
+         },
+         "last_updated":1624606143,
+         "title":"Fanfare for the Wandering Soul",
+         "volume":"2"
+      }
+   }
+}
