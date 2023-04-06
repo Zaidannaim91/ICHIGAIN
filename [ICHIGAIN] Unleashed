@@ -1,0 +1,25 @@
+{
+   "title":"[ICHIGAIN] Unleashed",
+   "description":"",
+   "author":"ICHIGAIN",
+   "artist":"ICHIGAIN",
+   "cover":"https://i.imgur.com/advzpYC.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/3g2ea4o"
+         },
+         "last_updated":1624606143,
+         "title":"Unleashed",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/uaqXeKJ"
+         },
+         "last_updated":1624606143,
+         "title":"Unleashed - I'm a Top Breeder!",
+         "volume":"2"
+      }
+   }
+}
